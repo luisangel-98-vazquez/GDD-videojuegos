@@ -1,4 +1,4 @@
-# Géneros de Videojuegos
+ # Géneros de Videojuegos
 
 ## Cómo utilizar esta sección
 
@@ -116,7 +116,13 @@ Si el juego no encaja claramente en las categorías anteriores, documenta aquí 
 ### Elección del proyecto
 
 **Género principal:**  
-**Justificación:**  
+RPG
+
+**Justificación:** 
+Si bien el jugador controlara un solo personaje, este tendra las capacidades de subir de niveles y poder asi mejorar sus atributos ademas de habilidades y equipamiento.
 
 **Géneros secundarios:**  
+Acción, Aventura, plataformas
+
 **Justificación:**
+como el genero principal es el RPG damos combates para que el personaje pueda subir de niveles, en los niveles nos podremos encontrar una forma de plataformeo donde se insertara narrativa o misiones dentro del mismo nivel

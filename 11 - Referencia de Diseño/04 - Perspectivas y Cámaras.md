@@ -61,7 +61,13 @@ La cámara cambia automáticamente según acciones, eventos o contexto.
 ## Decisión del proyecto
 
 **Perspectiva principal:**  
+Lateral en 2D
+
 **Tipo de cámara:**  
+Camara dinamica
+
 **¿Puede cambiar durante el juego?:**  
+una camara fija para el diseño de algun enfrentamiento de jefes unicamente.
 
 **Justificación de diseño:**
+

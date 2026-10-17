@@ -76,11 +76,15 @@ Videojuegos ejecutados mediante tecnologías web.
 
 ## Elección del proyecto
 
-**Plataforma principal:**  
+**Plataforma principal:**
+PC
 **¿Por qué?**
+requerimos las variedades del juego para sacarlo de forma mas optimizable posible y que el rendimiento sea estable para equipos sin hardware exigente.
 
 **Plataformas secundarias:**  
 **¿Qué cambios requerirían?**
+Consola-Xbox
+posiblemente sea mas beneficioso por el bastante control y esperable resultados en rendimiento y mas si tenemos equipos variables como principal plataforma.
 
 > [!important] Para proyectos académicos
 > Si el equipo tiene tiempo limitado, comenzar con **una plataforma principal** suele reducir problemas de compatibilidad y alcance.

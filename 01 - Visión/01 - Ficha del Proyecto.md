@@ -6,17 +6,17 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 
 ## Información general
 
-| Campo | Información |
-|---|---|
-| **Nombre del proyecto** | <!-- Nombre oficial o nombre temporal --> |
-| **Nombre clave** | <!-- Identificador interno si existe --> |
-| **Versión del GDD** | 0.1.0 |
-| **Estado del proyecto** | Concepto / Preproducción / Producción / Pruebas / Publicado |
-| **Equipo** | <!-- Integrantes --> |
-| **Responsable del proyecto** | <!-- Persona responsable --> |
-| **Fecha de inicio** | <!-- AAAA-MM-DD --> |
-| **Última actualización** | <!-- AAAA-MM-DD --> |
-| **Repositorio** | <!-- Enlace --> |
+| Campo                        | Información                                                                                                                                                                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nombre del proyecto**      | <!-- Nombre oficial o nombre temporal --> Sombras del Mictlan                                                                                                                                                                        |
+| **Nombre clave**             | <!-- Identificador interno si existe -->El Mictlan                                                                                                                                                                                   |
+| **Versión del GDD**          | 0.1.0                                                                                                                                                                                                                                |
+| **Estado del proyecto**      | ==Concepto== / Preproducción / Producción / Pruebas / Publicado                                                                                                                                                                      |
+| **Equipo**                   | - Rodriguez pech Joel Isaac<br>- Avila Mayo Ramon Alejandro <br>- Vázquez Contreras Luis Angel<br>- Un Hernandez Josue Abraham<br>- Sánchez Pérez Esther Berenice     <br>- Chuc Gongora Kevin Alejandro<br><br><!-- Integrantes --> |
+| **Responsable del proyecto** | - Rodriguez pech Joel Isaac   <br><br><!-- Persona responsable -->                                                                                                                                                                   |
+| **Fecha de inicio**          | 2026-09-25 <!-- AAAA-MM-DD -->                                                                                                                                                                                                       |
+| **Última actualización**     | 2026-10-15<!-- AAAA-MM-DD -->                                                                                                                                                                                                        |
+| **Repositorio**              | <!-- Enlace -->https://github.com/luisangel-98-vazquez/GDD-videojuegos.git                                                                                                                                                           |
 
 ## Identidad del videojuego
 
@@ -48,11 +48,12 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 > [!example] ¿Qué es?
 > Describe el videojuego en **una o dos frases**. Debe explicar quién juega, qué hace y qué lo hace interesante.
 
-**Respuesta:**
+**Respuesta:** 
+Es un juego RPG con combates y exploración en plataforma 2D, donde sigues a nuestro PROTAGONISTA y su compañero el xoloescuincle, viaja mientras decifras los misterios que se encuentran en el mictlan supera los obstaculos y descrube la razon de tu llegada al mictlan.
 
 ## Estado actual
 
-- [ ] Concepto definido
+- [x] Concepto definido
 - [ ] Alcance inicial definido
 - [ ] Mecánica principal definida
 - [ ] Prototipo funcional
@@ -64,6 +65,6 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 ## Criterio de éxito del proyecto
 
 ¿Qué tendría que suceder para considerar que el videojuego cumplió su propósito?
-
+que en la presentación tengamos una asistencia moderada para la visualizacion sin probar el videojuego, y tener una fila corta espera de probar el videojuego durante en el evento. 
 
 > **Navegación:** [[00 - Índice]] · ← [[00 - Índice]] · [[02 - Visión del Juego]] →

@@ -6,11 +6,11 @@ Los sistemas son conjuntos de reglas y componentes que trabajan juntos: combate,
 
 ## Inventario de sistemas
 
-| Sistema | Propósito | Dependencias | Estado |
-|---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
+| Sistema            | Propósito | Dependencias | Estado |
+| ------------------ | --------- | ------------ | ------ |
+| inventario         |           |              |        |
+| niveles/progresion |           |              |        |
+|                    |           |              |        |
 
 ## Plantilla de sistema
 

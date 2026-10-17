@@ -43,6 +43,12 @@ El juego puede incluir ambos tipos de interacción en diferentes modos.
 ### Elección del proyecto
 
 **Modo principal:**  
+Una sola persona
+
 **Jugadores simultáneos:**  
+1
+
 **Local / En línea:**  
+local
+
 **Justificación:**

@@ -92,11 +92,16 @@ Un juego puede combinar varios géneros.
 
 ### Elección del proyecto
 
-**Subgénero principal:**  
-**¿Por qué?**
+**Subgénero principal:** 
+accion-aventura 
+**¿Por qué?** 
+para la progresión de niveles en el jugador además de ayude para la resolución de problemas en el entorno.
 
 **Combinaciones adicionales:**  
 **¿Qué aporta cada una?**
+action RPG de la seccion de roles - porque durante combate al derrotar un enemigo suba de nivel y por lo tanto mejore sus estadisticas
+
+seccion aventura
 
 > [!warning] Evita acumular etiquetas
 > Si necesitas seis subgéneros para explicar el juego, probablemente todavía no has definido con claridad cuál es su experiencia principal.

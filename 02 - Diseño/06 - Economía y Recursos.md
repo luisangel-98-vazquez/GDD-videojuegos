@@ -6,10 +6,10 @@ Documenta cualquier recurso cuantificable: dinero, vida, energía, munición, ex
 
 ## Recursos
 
-| Recurso | Obtención | Uso | Límite | Pérdida |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
+| Recurso     | Obtención            | Uso | Límite | Pérdida |
+| ----------- | -------------------- | --- | ------ | ------- |
+| vida        | al spawnear          |     |        |         |
+| experiencia | al derrotar enemigos |     |        |         |
 
 ## Fuentes y sumideros
 
