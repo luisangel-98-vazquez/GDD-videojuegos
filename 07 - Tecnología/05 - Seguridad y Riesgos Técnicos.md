@@ -7,8 +7,8 @@ Documenta riesgos técnicos y medidas para reducir fallos, pérdida de datos o a
 ## Riesgos
 
 | Riesgo | Probabilidad | Impacto | Mitigación |
-|---|---|---|---|
-| | | | |
+| ------ | ------------ | ------- | ---------- |
+|        |              |         |            |
 
 ## Datos sensibles
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Diseño/02 - Mecánicas.md",
+                "file": "07 - Tecnología/05 - Seguridad y Riesgos Técnicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Mecánicas"
+              "title": "05 - Seguridad y Riesgos Técnicos"
             }
           }
         ]
@@ -190,6 +190,12 @@
   },
   "active": "c9c8c081b6e433aa",
   "lastOpenFiles": [
+    "07 - Tecnología/04 - Datos y Persistencia.md",
+    "07 - Tecnología/03 - Requisitos Técnicos.md",
+    "07 - Tecnología/02 - Motor y Herramientas.md",
+    "07 - Tecnología/01 - Arquitectura Técnica.md",
+    "07 - Tecnología/05 - Seguridad y Riesgos Técnicos.md",
+    "02 - Diseño/02 - Mecánicas.md",
     "03 - Historia y Mundo/01 - Premisa y Trama.md",
     "01 - Visión/03 - Público y Plataforma.md",
     "01 - Visión/04 - Pilares de Diseño.md",

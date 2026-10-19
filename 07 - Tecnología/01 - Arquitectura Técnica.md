@@ -23,9 +23,9 @@ Presentación
 ## Componentes principales
 
 | Componente | Responsabilidad | Dependencias |
-|---|---|---|
-| | | |
-| | | |
+| ---------- | --------------- | ------------ |
+|            |                 |              |
+|            |                 |              |
 
 ## Comunicación
 
