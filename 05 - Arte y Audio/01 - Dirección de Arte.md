@@ -6,38 +6,32 @@ Define la identidad visual del videojuego y las reglas que deben seguir los recu
 
 ## Identidad visual
 
-**Estilo:**
+**Estilo:** Arte digital 2D, estilo cartoon oscuro, fantasía y acción, con ilustraciones inspiradas en la cultura mexica y el Mictlán.
 
-**Referencias:**
+**Referencias:  Videojuegos de desplazamiento lateral (side-scroller), ilustraciones de guerreros mexicas, esqueletos, máscaras ceremoniales, penachos, escudos y armas prehispánicas.
 
-**Sensación buscada:**
+**Sensación buscada:** Misterio, peligro, aventura y respeto por una cultura ancestral. Los escenarios deben transmitir que el jugador está explorando un inframundo lleno de criaturas sobrenaturales.
 
-**Nivel de realismo:**
+**Nivel de realismo:** Estilizado, con proporciones exageradas, siluetas reconocibles y detalles visuales en las armaduras, armas y vestimentas.
 
-**Formas predominantes:**
+**Formas predominantes:** Estilizado, con proporciones exageradas, siluetas reconocibles y detalles visuales en las armaduras, armas y vestimentas.
 
-**Iluminación:**
+**Iluminación:**  Figuras angulares en armas y enemigos agresivos; formas geométricas en escudos y adornos; siluetas orgánicas en humo, fuego y energía espiritual.
 
-**Materiales:**
+**Materiales:** Piedra antigua, huesos, madera, obsidiana, tejidos, plumas, metales envejecidos y elementos de jade.
 
 ## Paleta de color
 
-**Colores principales:**
+**Colores principales:** Negro carbón (#25252D), rojo sangre (#B9232F) y café oscuro(#6B3A32)
+**Colores secundarios:** Dorado(#D99A32), hueso(#E8D7B4) y turquesa (#147F78).
 
-**Colores secundarios:**
-
-**Colores para información jugable:**
+**Colores para información jugable:** Verde para curación, rojo para daño y peligro, azul turquesa para habilidades y energía, dorado para objetos especiales y recompensas.
 
 ## Reglas visuales
 
-1.
-2.
-3.
-
-## Referencias
-
-Añade enlaces o imágenes dentro de la carpeta del proyecto.
-
+1. Los personajes, enemigos y objetos interactivos deben distinguirse claramente de los fondos.
+2. Los ataques peligrosos deben tener efectos visuales visibles antes de impactar para permitir que el jugador reaccione.
+3. Los elementos culturales deben utilizarse de manera coherente con la ambientación inspirada en la cultura mexica, evitando mezclar símbolos sin justificación.
 -
 
 
