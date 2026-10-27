@@ -58,7 +58,16 @@ El xoloitzcuintle funciona como guía y compañero; los recuerdos son parte de l
 
 > Esta sección es especialmente importante para evitar que el proyecto crezca sin control.
 
+_Sombras del Mictlán_ NO es:
 
+- Un videojuego multijugador ni una experiencia en línea.
+- Un mundo abierto con un mapa completamente libre.
+- Un simulador de la vida cotidiana o de actividades del mundo real.
+- Un juego centrado exclusivamente en el terror o en los sustos.
+- Un videojuego en 3D con gráficos realistas.
+- Un juego educativo basado en cuestionarios o lecciones.
+- Una recreación histórica exacta de la cultura mexica; es una aventura de ficción inspirada en su mitología y tradiciones.
+- Un proyecto con contenido generado aleatoriamente de forma ilimitada; la experiencia se construirá mediante regiones y desafíos diseñados previamente.
 
 
 > **Navegación:** [[00 - Índice]] · ← [[01 - Ficha del Proyecto]] · [[03 - Público y Plataforma]] →
