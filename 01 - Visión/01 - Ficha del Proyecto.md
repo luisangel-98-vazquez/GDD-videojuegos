@@ -40,7 +40,7 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 
 **Perspectiva:**  
 > Consulta [[04 - Perspectivas y Cámaras]].
-> Cámara Dinámica 
+> Side-scroller
 
 **Clasificaciones y etiquetas adicionales:**  
 > Consulta [[06 - Clasificaciones y Etiquetas]].
