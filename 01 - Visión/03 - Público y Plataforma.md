@@ -21,24 +21,26 @@ Jóvenes y adultos que disfrutan los juegos de rol, la acción y aventura, la ex
 
 | Elemento                | Decisión                  |
 | ----------------------- | ------------------------- |
-| Plataforma principal    |                           |
-| Plataformas secundarias |                           |
+| Plataforma principal    | PC (Windows)              |
+| Plataformas secundarias | Web                       |
 | Método de entrada       | Teclado / Mouse / Control |
-| Resolución objetivo     |                           |
-| Relación de aspecto     |                           |
-| Rendimiento objetivo    | FPS                       |
-| Conexión requerida      | Sí / No                   |
+| Resolución objetivo     | 1920 × 1080 píxeles       |
+| Relación de aspecto     | 16:9                      |
+| Rendimiento objetivo    | 60 FPS                    |
+| Conexión requerida      | No                        |
 |                         |                           |
 
 ## Restricciones de plataforma
 
 Documenta limitaciones de hardware, controles, memoria, almacenamiento, distribución o conectividad.
 
+El juego estará enfocado principalmente en PC con Windows. Se buscará que funcione en equipos de gama media sin requerir hardware especializado. Al ser un juego 2D con arte dibujado a mano (_hand-drawn_), se priorizará el rendimiento estable y la fluidez de las animaciones.
+
 ## Sesión de juego
 
-**Duración esperada de una sesión:**
+**Duración esperada de una sesión:** 5 min
 
-**Duración total estimada del juego:**
+**Duración total estimada del juego:** 20 min 
 
 ## Modelo de distribución
 
@@ -47,9 +49,9 @@ Documenta limitaciones de hardware, controles, memoria, almacenamiento, distribu
 ## Consideraciones
    
 - [ ] Controles adaptados a la plataforma
-- [x] Interfaz legible
-- [ ] Rendimiento considerado
-- [ ] Resoluciones consideradas
+- [ ] Interfaz legible
+- [x] Rendimiento considerado
+- [x] Resoluciones consideradas
 - [x] Guardado compatible
 
 

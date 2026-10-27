@@ -8,15 +8,15 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 
 | Campo                        | Información                                                                                                                                                                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Nombre del proyecto**      | <!-- Nombre oficial o nombre temporal --> Mictlan                                                                                                                                                                              |
-| **Nombre clave**             | <!-- Identificador interno si existe -->                                                                                                                                                                                       |
-| **Versión del GDD**          | 0.1.0                                                                                                                                                                                                                          |
-| **Estado del proyecto**      | ==Concepto== / Preproducción / Producción / Pruebas / Publicado                                                                                                                                                                |
+| **Nombre del proyecto**      | <!-- Nombre oficial o nombre temporal --> Sombras Del Mictlan                                                                                                                                                                  |
+| **Nombre clave**             | <!-- Identificador interno si existe --> Mictlan                                                                                                                                                                               |
+| **Versión del GDD**          | 0.1.4                                                                                                                                                                                                                          |
+| **Estado del proyecto**      | Concepto / ==🟢Preproducción== / Producción / Pruebas / Publicado                                                                                                                                                              |
 | **Equipo**                   | <!-- Integrantes --> - Rodriguez pech Joel Isaac<br>- Avila Mayo Ramon Alejandro <br>- Vázquez Contreras Luis Angel  <br>- Un Hernandez Josue Abraham  <br>- Sánchez Pérez Esther Berenice  <br>- Chuc Gongora Kevin Alejandro |
 | **Responsable del proyecto** | <!-- Persona responsable -->Rodriguez pech Joel Isaac                                                                                                                                                                          |
 | **Fecha de inicio**          | <!-- AAA-MM-DD -->25/09/26                                                                                                                                                                                                     |
-| **Última actualización**     | <!-- AAAA-MM-DD -->25/09/26                                                                                                                                                                                                    |
-| **Repositorio**              | <!-- Enlace -->                                                                                                                                                                                                                |
+| **Última actualización**     | <!-- AAAA-MM-DD -->26/10/26                                                                                                                                                                                                    |
+| **Repositorio**              | <!-- Enlace -->[joelrod12/Sombras-del-Mictlan](https://github.com/joelrod12/Sombras-del-Mictlan)                                                                                                                               |
 
 ## Identidad del videojuego
 
@@ -61,8 +61,8 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 
 ## Estado actual
 
-- [x] Concepto definido
-- [ ] Alcance inicial definido
+- [ ] Concepto definido
+- [x] Alcance inicial definido
 - [ ] Mecánica principal definida
 - [ ] Prototipo funcional
 - [ ] Vertical slice
