@@ -47,10 +47,10 @@ Documenta limitaciones de hardware, controles, memoria, almacenamiento, distribu
 ## Consideraciones
    
 - [ ] Controles adaptados a la plataforma
-- [ ] Interfaz legible
+- [x] Interfaz legible
 - [ ] Rendimiento considerado
 - [ ] Resoluciones consideradas
-- [ ] Guardado compatible
+- [x] Guardado compatible
 
 
 > **Navegación:** [[00 - Índice]] · ← [[02 - Visión del Juego]] · [[04 - Pilares de Diseño]] →
