@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Visión/01 - Ficha del Proyecto.md",
+                "file": "08 - Producción/01 - Alcance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Ficha del Proyecto"
+              "title": "01 - Alcance"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Visión/01 - Ficha del Proyecto.md",
+                "file": "05 - Arte y Audio/01 - Dirección de Arte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,24 +190,31 @@
   },
   "active": "c9c8c081b6e433aa",
   "lastOpenFiles": [
-    "01 - Visión/04 - Pilares de Diseño.md",
-    "01 - Visión/03 - Público y Plataforma.md",
-    "01 - Visión/02 - Visión del Juego.md",
-    "01 - Visión/01 - Ficha del Proyecto.md",
-    "11 - Referencia de Diseño/04 - Perspectivas y Cámaras.md",
-    "02 - Diseño/02 - Mecánicas.md",
-    "03 - Historia y Mundo/02 - Mundo.md",
-    "03 - Historia y Mundo/01 - Premisa y Trama.md",
+    "07 - Tecnología/01 - Arquitectura Técnica.md",
+    "06 - Experiencia/01 - UX y Flujo del Jugador.md",
     "07 - Tecnología/05 - Seguridad y Riesgos Técnicos.md",
     "07 - Tecnología/04 - Datos y Persistencia.md",
-    "07 - Tecnología/01 - Arquitectura Técnica.md",
-    "07 - Tecnología/02 - Motor y Herramientas.md",
-    "05 - Arte y Audio/01 - Dirección de Arte.md",
-    "02 - Diseño/01 - Jugabilidad.md",
     "07 - Tecnología/03 - Requisitos Técnicos.md",
-    "11 - Referencia de Diseño/06 - Clasificaciones y Etiquetas.md",
-    "11 - Referencia de Diseño/05 - Modos de Juego.md",
-    "00 - Índice.md",
-    "00 - Acerca de esta guía.md"
+    "07 - Tecnología/02 - Motor y Herramientas.md",
+    "06 - Experiencia/04 - Guardado y Configuración.md",
+    "06 - Experiencia/03 - Accesibilidad.md",
+    "06 - Experiencia/02 - UI y Menús.md",
+    "02 - Diseño/03 - Sistemas.md",
+    "02 - Diseño/01 - Jugabilidad.md",
+    "05 - Arte y Audio/01 - Dirección de Arte.md",
+    "04 - Contenido/04 - Objetos y Coleccionables.md",
+    "04 - Contenido/03 - Enemigos y NPC.md",
+    "04 - Contenido/02 - Niveles.md",
+    "04 - Contenido/01 - Estructura del Contenido.md",
+    "01 - Visión/02 - Visión del Juego.md",
+    "01 - Visión/03 - Público y Plataforma.md",
+    "01 - Visión/04 - Pilares de Diseño.md",
+    "03 - Historia y Mundo/03 - Personajes.md",
+    "03 - Historia y Mundo/02 - Mundo.md",
+    "03 - Historia y Mundo/01 - Premisa y Trama.md",
+    "02 - Diseño/02 - Mecánicas.md",
+    "01 - Visión/01 - Ficha del Proyecto.md",
+    "11 - Referencia de Diseño/04 - Perspectivas y Cámaras.md",
+    "11 - Referencia de Diseño/06 - Clasificaciones y Etiquetas.md"
   ]
 }
