@@ -42,7 +42,7 @@ Define las condiciones técnicas necesarias para ejecutar y desarrollar el video
 
 ## Restricciones
 
-- **Plataforma única:** El videojuego está diseñado exclusivamente para PC (Windows) con teclado/mouse. No cuenta con soporte para consolas, dispositivos móviles ni integración con controles de mando (gamepads) en esta fase.
+- **Plataforma única:** El videojuego está diseñado exclusivamente para PC (Windows) con teclado/mouse. No cuenta con soporte para consolas, dispositivos móviles ni integración con controles de mando (gamepads) en esta fase. Los controles de mando y la versión Web quedan como deseables fuera de la versión objetivo, ver [[01 - Alcance]] y [[05 - Gestión de Cambios]].
     
 - **Modalidad monojugador:** No soporta funcionalidades multijugador ni funciones en red o servidor.
     

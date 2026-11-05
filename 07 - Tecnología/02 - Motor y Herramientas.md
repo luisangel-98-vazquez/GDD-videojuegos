@@ -6,13 +6,13 @@ Documenta las herramientas utilizadas para crear el videojuego y por qué fueron
 
 ## Motor
 
-**Motor: Unity
+**Motor:** Unity
 
-**Versión: 2022.3 LTS
+**Versión:** 2022.3 LTS
 
-**Renderizado: Universal Render Pipeline (URP) 2D
+**Renderizado:** Universal Render Pipeline (URP) 2D
 
-**Física: Unity Physics 2D
+**Física:** Unity Physics 2D
 
 **Sistema de entrada:** Input System Package
 
@@ -45,51 +45,62 @@ Documenta las herramientas utilizadas para crear el videojuego y por qué fueron
 
 ## Convenciones del proyecto
 
-- Estructura de carpetas
+### Estructura de carpetas
+
+```text
 Assets/
 ├── Animations/      # Clips de animación y controladores de animación
 ├── Audio/           # Música de fondo y efectos de sonido (SFX)
+├── Data/            # ScriptableObjects de enemigos, objetos, diálogos, recuerdos y niveles
 ├── Fonts/           # Fuentes tipográficas del proyecto
 ├── Prefabs/         # Elementos reusables (jugador, enemigos, coleccionables, tramas)
-├── Scenes/          # Escenas del juego (Menú principal, Niveles del Mictlán, Pantalla de Game Over)
+├── Scenes/          # Escenas del juego (Menú principal, Prólogo, Niveles del Mictlán, Epílogo)
 ├── Scripts/         # Código fuente en C#
 │   ├── Audio/
+│   ├── Core/        # Estado global, carga de escenas, guardado y entrada
 │   ├── Enemies/
+│   ├── Items/       # Inventario y objetos
+│   ├── Narrative/   # Interacción, diálogos y recuerdos
 │   ├── Player/
 │   └── UI/
 ├── Sprites/         # Recursos gráficos 2D (Personajes, Fondos, Tilesets)
 └── Tilemaps/        # Paletas y mapas de azulejos para los niveles
+```
 
-- Nomenclatura
--- **Archivos y carpetas:** PascalCase (ej. `PlayerController`, `MainMenuScene`, `EnemySprites`).
-    
+### Nomenclatura
+
+- **Archivos y carpetas:** PascalCase (ej. `PlayerController`, `MainMenuScene`, `EnemySprites`).
+
 - **Prefabs:** Prefijo descriptivo en PascalCase (ej. `PF_Player`, `PF_EnemyBase`, `PF_HealthPotion`).
-    
+
 - **Sprites / Texturas:** Prefijo de tipo (ej. `SP_Player_Idle`, `BG_Mictlan_Level1`).
--
-- Control de versiones
--- **Herramienta:** Git con repositorio alojado en GitHub.
-    
+
+### Control de versiones
+
+- **Herramienta:** Git con repositorio alojado en GitHub.
+
 - **Estrategia de ramas:**
-    
+
     - `main` / `master`: Código estable y probado para entregas.
-        
+
     - `dev`: Rama principal de integración para el equipo.
-        
+
     - **Ramas de trabajo:** `feature/nombre-funcionalidad` (ej. `feature/player-movement`, `feature/mictlan-level-1`).
-        
+
 - **Uso de `.gitignore`:** Archivo configurado para Unity (excluyendo carpetas pesadas/temporales como `Library/`, `Temp/`, `Logs/` y `obj/`).
 
-- Formato de assets
--- **Gráficos e imágenes:** PNG con fondo transparente (Sprite 2D y UI).
-    
+### Formato de assets
+
+- **Gráficos e imágenes:** PNG con fondo transparente (Sprite 2D y UI).
+
 - **Audio:** MP3 o WAV (WAV para efectos de sonido cortos; MP3 para música de fondo).
-    
+
 - **Vectorial / Arte original:** Formatos `.ai` (Illustrator) y `.kra` (Krita) guardados fuera del folder `Assets/` de Unity para edición.
--
-- Convenciones de código
--- **Clases y Métodos:** PascalCase (ej. `PlayerHealth`, `TakeDamage()`).
-    
+
+### Convenciones de código
+
+- **Clases y Métodos:** PascalCase (ej. `PlayerHealth`, `TakeDamage()`).
+
 - **Variables privadas:** camelCase con guion bajo al inicio (ej. `_moveSpeed`, `_currentHealth`).
 
 
