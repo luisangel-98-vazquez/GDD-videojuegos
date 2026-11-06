@@ -1,0 +1,8 @@
+refs/remotes/origin/HEAD b064e442e038c16664fc6cc172a4b13cd8126d9e
+refs/remotes/origin/feact/02-diseño ff82133ba41992c246b20e1294e97a94ef0c25cd
+refs/remotes/origin/feature/1Completo 35729e00886fe6c71eb1bdab0171135c72b18ec1
+refs/remotes/origin/feature/arteyaudio 12238476ef739331822a14f53f417643bbd4c2b7
+refs/remotes/origin/feature/contenido 6118ca2ce85e14f4f7c6159e396ec662414538f3
+refs/remotes/origin/feature/pilares-diseno 96c3dfe6dbda4db12ffa599d93f355f5e11838a1
+refs/remotes/origin/feature/tecnología 0e477f18cc215113f3ebe489f2f67b818e7efa88
+refs/remotes/origin/main b064e442e038c16664fc6cc172a4b13cd8126d9e
