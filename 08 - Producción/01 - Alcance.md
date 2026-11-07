@@ -64,7 +64,10 @@ Valida el bucle de explorar, combatir, progresar y descubrir, que sostiene los t
 
 ## Criterios de recorte
 
-Si el tiempo o los recursos son insuficientes, ¿qué se elimina primero?
+Si el tiempo o los recursos son insuficientes, ¿Qué se elimina primero?
+- variación de enemigos
+- niveles mas adelante
+
 
 | Orden | Se recorta | Efecto |
 | ----- | ---------- | ------ |
