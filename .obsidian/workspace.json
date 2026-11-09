@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Visión/01 - Ficha del Proyecto.md",
+                "file": "05 - Arte y Audio/02 - Personajes y Animación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Ficha del Proyecto"
+              "title": "02 - Personajes y Animación"
             }
           }
         ]
@@ -188,12 +188,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c9c8c081b6e433aa",
+  "active": "61ec6185adeabb2b",
   "lastOpenFiles": [
+    "05 - Arte y Audio/Personajes/segador.svg",
+    "05 - Arte y Audio/Personajes/alma errante.svg",
+    "05 - Arte y Audio/Personajes/alma en pena.svg",
+    "05 - Arte y Audio/Personajes/guerrero caido.svg",
+    "05 - Arte y Audio/Personajes/murcielago.svg",
+    "05 - Arte y Audio/Personajes/espiritu del viento.svg",
+    "05 - Arte y Audio/Personajes/SACERDOTISTA.svg",
+    "05 - Arte y Audio/Personajes",
+    "05 - Arte y Audio/01 - Dirección de Arte.md",
+    "01 - Visión/01 - Ficha del Proyecto.md",
     "01 - Visión/04 - Pilares de Diseño.md",
     "01 - Visión/03 - Público y Plataforma.md",
     "01 - Visión/02 - Visión del Juego.md",
-    "01 - Visión/01 - Ficha del Proyecto.md",
     "11 - Referencia de Diseño/04 - Perspectivas y Cámaras.md",
     "02 - Diseño/02 - Mecánicas.md",
     "03 - Historia y Mundo/02 - Mundo.md",
@@ -202,7 +211,6 @@
     "07 - Tecnología/04 - Datos y Persistencia.md",
     "07 - Tecnología/01 - Arquitectura Técnica.md",
     "07 - Tecnología/02 - Motor y Herramientas.md",
-    "05 - Arte y Audio/01 - Dirección de Arte.md",
     "02 - Diseño/01 - Jugabilidad.md",
     "07 - Tecnología/03 - Requisitos Técnicos.md",
     "11 - Referencia de Diseño/06 - Clasificaciones y Etiquetas.md",
