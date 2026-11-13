@@ -8,8 +8,8 @@ Registra los cambios importantes realizados al GDD. Esto permite conocer cómo e
 
 | Versión | Fecha | Cambios principales | Responsable |
 |---|---|---|---|
-| 0.1.0 | | Creación del documento | |
-| | | | |
+| 0.1.0 | 2026-09-25 | Creación de la documentación del proyecto. | Equipo |
+| 1.0.0 | 2026-11-13 | GDD completo: campos de diseño vacíos rellenados con datos del ZIP y alcance documentado. | Equipo |
 
 ## Convención sugerida
 

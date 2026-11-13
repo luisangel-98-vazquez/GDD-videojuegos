@@ -242,19 +242,19 @@ Durante el enfrentamiento utiliza dos ataques principales. El jugador debe recon
 
 **Vida:**
 
-Pendiente de definir.
+450 puntos como objetivo de diseño inicial. El Gigante de Obsidiana del proyecto de referencia tiene 320; el jefe final requiere un combate más largo. Este valor aún no está implementado en el ZIP.
 
 **Daño:**
 
-Pendiente de definir.
+30 por barrido y 24 por onda baja como valores objetivo iniciales; ambos ataques aplican una vez por ciclo y mantienen señal previa.
 
 **Defensas:**
 
-Pendiente de definir según el diseño del jefe final.
+Invulnerable durante preparación e impacto; vulnerable durante recuperación. Sus señales no se eliminan al pasar a la segunda fase.
 
 **Velocidad:**
 
-Pendiente de definir.
+No persigue a Yaotl; gira hacia él antes de cada ataque y permanece dentro de la arena.
 
 **Rango de detección:**
 
@@ -262,8 +262,9 @@ El jefe se activa cuando comienza el enfrentamiento final dentro de su área de 
 
 **Ataques:**
 
-- Ataque principal 1: pendiente de especificar.
-- Ataque principal 2: pendiente de especificar.
+- **Barrido frontal:** señal de 0.9 s, se bloquea de frente.
+- **Onda baja:** marca de suelo y señal de 1.0 s; se esquiva saltando.
+- Al llegar a 50 % de vida, reduce 15 % sus tiempos de recuperación sin eliminar señales.
 
 **Debilidades:**
 
@@ -278,12 +279,12 @@ El jefe se activa cuando comienza el enfrentamiento final dentro de su área de 
 
 **Estados de IA:**
 
-1. **Esperar:** permanece inactiva hasta que termina la conversación previa.
-2. **Iniciar combate:** comienza el enfrentamiento.
-3. **Atacar:** ejecuta uno de sus dos ataques.
-4. **Recibir daño:** registra los golpes de Yaotl.
-5. **Continuar combate:** vuelve a ejecutar sus patrones mientras tenga vida.
-6. **Morir:** termina el combate y activa la secuencia narrativa final.
+1. **Esperar:** permanece inactiva hasta terminar la conversación previa.
+2. **Elegir patrón:** barrido a corta distancia; onda cuando Yaotl se aleja, alternando la onda al menos una vez cada tres ciclos.
+3. **Señal e impacto:** prepara y ejecuta un solo ataque señalizado.
+4. **Recuperación:** abre la ventana para contraatacar.
+5. **Fase dos:** acelera el ciclo al bajar a 50 % de vida.
+6. **Morir:** activa la secuencia de desenlace.
 
 ```text
 Esperar → Iniciar combate

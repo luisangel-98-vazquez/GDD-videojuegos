@@ -10,8 +10,8 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Nombre del proyecto**      | <!-- Nombre oficial o nombre temporal --> Sombras Del Mictlan                                                                                                                                                                  |
 | **Nombre clave**             | <!-- Identificador interno si existe --> Mictlan                                                                                                                                                                               |
-| **Versión del GDD**          | 0.1.4                                                                                                                                                                                                                          |
-| **Estado del proyecto**      | Concepto / ==🟢Preproducción== / Producción / Pruebas / Publicado                                                                                                                                                              |
+| **Versión del GDD**          | 1.0.0                                                                                                                                                                                                                          |
+| **Estado del proyecto**      | GDD completo; prototipo Unity de referencia en desarrollo, con escenas 1–5                                                                                                                                                     |
 | **Equipo**                   | <!-- Integrantes --> - Rodriguez pech Joel Isaac<br>- Avila Mayo Ramon Alejandro <br>- Vázquez Contreras Luis Angel  <br>- Un Hernandez Josue Abraham  <br>- Sánchez Pérez Esther Berenice  <br>- Chuc Gongora Kevin Alejandro |
 | **Responsable del proyecto** | <!-- Persona responsable -->Rodriguez pech Joel Isaac                                                                                                                                                                          |
 | **Fecha de inicio**          | <!-- AAA-MM-DD -->25/09/26                                                                                                                                                                                                     |
@@ -69,6 +69,8 @@ Esta ficha identifica el proyecto de forma rápida. Debe permitir que alguien qu
 - [ ] Producción
 - [ ] Pruebas
 - [ ] Versión final
+
+**Estado del documento:** GDD completo, versión 1.0.0. El ZIP `Sombras-del-Mictlan-main.zip` se usó como referencia para los controles, atributos, progresión, combate, persistencia y estado de escenas disponibles.
 
 ## Criterio de éxito del proyecto
 
